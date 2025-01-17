@@ -14,7 +14,7 @@ int main(){
     }
 
     int q;
-    cout<<"Enter the number of queries:";
+    cout<<"Enter number of queries:";
     cin>>q;
     for(int i=0;i<q;i++){
         int num;
